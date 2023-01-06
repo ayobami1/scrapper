@@ -36,11 +36,11 @@ client = gspread.authorize(creds)
 
 # Open the spreadsheet
 spreadsheet = client.open_by_key(
-    '1rLxYCjY3x5lMDBXmQecxivippl25IT1TcMZRsIBp6oE'
-)  #1fWIzY-YAiZQkF_Ak_Y1Ub-UGIbd7qO7yXelXCa5tJL4, 1rLxYCjY3x5lMDBXmQecxivippl25IT1TcMZRsIBp6oE
+    'SPREAD_SHEET_ID'
+)  
 
-# Open the shee
-worksheet = spreadsheet.worksheet('SHOP_')
+# Open the sheet and write the result here 
+worksheet = spreadsheet.worksheet('Sheet1')
 
 
 def Get_barcode():
@@ -55,12 +55,12 @@ def Get_barcode():
     # Authenticate and authorize
     client = gspread.authorize(creds)
 
-    # 1fWIzY-YAiZQkF_Ak_Y1Ub-UGIbd7qO7yXelXCa5tJL4 Open the spreadsheet 1rLxYCjY3x5lMDBXmQecxivippl25IT1TcMZRsIBp6oE
+    
     spreadsheet = client.open_by_key(
-        '1rLxYCjY3x5lMDBXmQecxivippl25IT1TcMZRsIBp6oE')
+        'SPREAD_SHEET_ID'')
 
-    # Open the sheet
-    worksheet = spreadsheet.worksheet('Barcodes')
+    # Open the sheet and  PUll THE BARCODE from HERE
+    worksheet = spreadsheet.worksheet('Barcodes_sheet')
     with open("scanned_barcodes.csv", "r") as f:
 
         reader = csv.reader(f)
