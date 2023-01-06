@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "pythonsheet-348315",
-  "private_key_id": "9a40ae9ab580bc6189fcff2a556815d581d2c9c7",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDb2SIb3MKtRDta\nwda1Z1TOgw18629eeFn7AWVRHm8NgFbEk/PwD2316AHsBQZe4S+NJAImhqcLnYFi\nYK+mQD7RnxzbtXQhluLaW2ux+mwnDpD5h4cP0k3/011QOfrNdMqIZtaxq10/OimT\nadkSrkHWvlQ2/TiKGx1+8ryaAdFLv1wIJJUrZu02N8yWZ3P4lP7aHYXmeUamR/g7\nW3WRJWCWUnsSHjRdqFoCOzR2Ey82rN+Mw3xwFuU2KbgPWc9tSRKAkoFNEU4iHLVG\n9/EO2mWVFBNuOPIZXoTNBgKathuHILV4qFJ006YYQN/gFf5YCUN3W65bKWXD1RED\nBc1biQGVAgMBAAECggEAEr7xgccG/IeLDhflgG37/73nT7BdkdnDm7uzPBb9vid5\nfo/lEXenVyaoyfYQZH+2snC7FDY6wSqgJoIlsrswqrwdVaijwId2oXWBJIRnZhnV\nB8nkHNfAWeDXyJL2YpV4/ZIomq6zfUQu2QiB/23yDucHaZxEOWvKzeZ8aXS1OCGZ\nC/o+5s922ogwg5mVdHZHnCDRWbLqcrNymaTx5jZi8cUEHa95wpQoCmshRFZilp1z\n6BeFa5NFmdCSVjLyjTy4ECgX4U9c2dVOolnK2zfRE3VLS0Zo6vB1WkTf8vi9vZ69\nq292ZBZ52aLSYSew6XYYjV1i7MAAX/gvsNu6CFD5EwKBgQDx/Q5sGCoaloptZax6\n2gTYytvYJclQFDO67xEtW14bGtnN6Tn1UOrOQtayk5cQX0aeRF/4WyNxxSvIWM1x\nLIXFgAv8gGXKXxh7qBjgIs4C9cy5dwywxs1lFi3didFhi70Kfnl1PDPgM4dXvRIO\nn5YeaZPYNsr3X8n9pfhSo0wvEwKBgQDok+VHJcY5wJcsm/ouqa48UgOmx++sCcu8\nu4xHUTLSLxVNWCBSiEIxrfoA2/kDNa1A6gtKdlwFnt8ZPG74CEfbT/CAQtAztpRF\nm7TD7aykUWXvHZlaY1rNLNXrq/aBuYV+ZR98ubfdZ5lhG1a6r+vB0ERKvYTK0tmP\n0J1qSWuZtwKBgQCzEuNDVraBqnmR7zWuS/xeOfBqibvqCKknYpbBi+WeBUa8vCTp\nxxGbxZZ/2/xkXz0xDcQ/U6JtJM37msudPqdXuiQknRe2pJzHlWOjKd5uDluLu++m\nOdfxQHJ8iOprVy9zvpg/C2gQN9GmOgJM1AgRRWvlCtc0LKybieCztqhABQKBgCEJ\nKO8jOXXomlCW00GfjoU47RXannukZJEpXrKeoQZj87Wpx+WRPz3JRZKrrEI9dJ+c\n3v+zsjyGJZBzGhwXKQXI5BOD6gj+bS85/8I412X7vevqG2dQZ4xvSu+P3JLupDyg\n5okT5D8JwSqe9IHODUHZcGnhY6RfsNGRw1pelW8fAoGAS/v9QjPFfLjA020C+9oE\nB3yuofVsD/IIOdAFxBpOcRY0oZx6cgoLGuh/OZDcyGaIzInl6/Yr0VrVRh9nvvVY\nYCVm/dfn3Z5fkzke9Vd+j5rrsDtklG5bc2NsWLAUGkI2pF4w6efSmVDuTfeAA23k\nLGdUXsYRHlIFVbWWpFVnTOw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "python@pythonsheet-348315.iam.gserviceaccount.com",
-  "client_id": "114692711889258247296",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python%40pythonsheet-348315.iam.gserviceaccount.com"
-}
+/// put your credential.json in here that you got from your developer console
